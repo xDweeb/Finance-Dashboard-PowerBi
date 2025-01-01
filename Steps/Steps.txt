@@ -1,0 +1,49 @@
+transforming data :
+create pivot table 
+now we have 4 colomns 
+Type / Component / date / VAlue
+change type of date to date
+close and apply
+create Mesure
+1- Total_Value : Sum(DATASET[Value]
+2- Income : CALCULATE([Total_VAlue],'Dataset'[Type]="Income")
+3- Savings : CALCULATE([Total_VAlue],'Dataset'[Type]="Savings")
+4- Expenses : CALCULATE([Total_VAlue],'Dataset'[Type]="Expense")
+
+in rapport 
+creat 3 Cart with this mesure and filtre with eash one
+
+Creat new mesure for Saving% 
+Saving% = DIVIDE([Savings],[Income])
+change formate to Percentage and set dicimale number to 0
+go to table viex and add a new 2 colomns with name Year and Month-yr
+
+Year = FORMAT('Dataset'[Date],"yyyy")
+Month-yr = FORMAT('Dataset'[Date],"mmm-yy")
+
+go back to Report View 
+and new Value "Year" and chose "Tile Slicer"
+
+add chow "select all"
+go to formate visual => slicer settings => on show select all
+
+change Columns and rows setting in layout and set 1 Max row and 5 Columns shonw
+
+and remove title by going to general an off Title
+
+set text of slicer to centre go back to visual and Callout Values and horizontal alignment and chose center
+
+set border raduse by going to shape => Rounded rectangle => 12px
+
+change font go to Callout Value => Values => Font set to Segoe Ui and 11 size
+
+set color to buttons go to buttons => State : Default => Fill => Color : light gray 
+
+off border
+
+change color of button when click go to => Apply setting : Select => Color : 7166F9 
+
+add 2 Donut chart with : 
+1: Legend Compnent and Value Expenses set title to Expenses 
+2: Legend Compnent and Value Savings set title to Savings
+and set font to Segeo Ui Bold for title
