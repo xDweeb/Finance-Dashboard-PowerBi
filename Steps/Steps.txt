@@ -186,5 +186,10 @@ add a mesure
 
 Ex_vs_sav = DIVIDE({Savingd],[expneses]
 
+adding background
+and set size of component
+
+next ster set up second page of date
+
 
 
