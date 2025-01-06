@@ -26,7 +26,8 @@ The **Finance Dashboard** is a comprehensive visualization project built using P
 │   └── icons.svg                # Icon assets
 ├── screenshots/
 │   ├── FinalProject.png         # Snapshot of the final dashboard
-│   └── finance_dashboard - Power BI.pdf # Full project presentation
+│   ├── mini1.png                # Supporting visuals
+│   └── mini2.png                # Supporting visuals
 ├── Steps/
 │   ├── Steps.md                 # Step-by-step project documentation
 │   └── Steps.txt                # Additional notes
@@ -47,6 +48,13 @@ The **Finance Dashboard** is a comprehensive visualization project built using P
    ```
 2. Open the `finance_dashboard.pbix` file in Power BI.
 3. Explore and customize the dashboard as needed.
+
+---
+
+## Test the Dashboard
+You can interact with the dashboard directly below:
+
+<iframe title="finance_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGMyYjI2NzEtNjhmMi00NjNkLWJiM2YtOGRkYTU3MTg2NjkyIiwidCI6IjFjOTU3MTRkLTczMWEtNDVmZS04YjY2LWMwNTI2MmY4OGZjZSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
@@ -73,8 +81,15 @@ For a detailed walkthrough of the project setup, refer to [`Steps.md`](Steps/Ste
 
 ---
 
-## Screenshots
-![Donut Chart](screenshots/FinalProject.png)
+## Visualizations
+Here are two additional mini visualizations included in the project:
+
+<table>
+  <tr>
+    <td><img src="screenshots/mini1.png" alt="Donut Chart 1" width="300"></td>
+    <td><img src="screenshots/mini2.png" alt="Donut Chart 2" width="300"></td>
+  </tr>
+</table>
 
 ---
 
