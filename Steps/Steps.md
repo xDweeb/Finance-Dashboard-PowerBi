@@ -1,26 +1,3 @@
-
-
-Great work on completing the project and setting up the visuals! I’ll help refine and structure the steps for your GitHub presentation, including a detailed explanation of your measures, data, and project steps in a separate file. Here’s how we’ll proceed:
-
----
-
-### **1. GitHub Repository Updates**
-- Repository Name: `finance-dashboard-powerbi`
-- **Files to Include:**
-  - `README.md`: Overview of the project and links to the Power BI report.
-  - A new file, `steps.md`: Detailed step-by-step guide for the project.
-  - Folders for visuals, Power BI files, and supporting assets (like background images).
-
----
-
-### **2. Draft for `steps.md`**
-I’ll write your step-by-step process in a polished format with explanations and proper structure. Let’s start with a draft version. 
-
----
-
-### **Steps to Create the Dashboard** (Draft for `steps.md`)
-
-```markdown
 # Steps to Create the Finance Dashboard in Power BI
 
 ## 1. Data Preparation
@@ -148,7 +125,3 @@ I’ll write your step-by-step process in a polished format with explanations an
 - Include explanations for each measure, why it was created, and the insights it provides.
 - Add visuals and screenshots of the dashboard (from your PDF file) to illustrate each step.
 ```
-
----
-
-Does this structure work for you? Let me know if you’d like me to revise or expand on any part!
