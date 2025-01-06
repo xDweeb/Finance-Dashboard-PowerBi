@@ -77,7 +77,7 @@ For a detailed walkthrough of the project setup, refer to [`Steps.md`](Steps/Ste
 ## Visualizations
 Here are two additional mini visualizations included in the project:
 
-<div style="text-align: center;">
+<div align="center">
   <table>
     <tr>
       <td><img src="screenshots/mini1.png" alt="Donut Chart 1" width="300"></td>
@@ -85,6 +85,7 @@ Here are two additional mini visualizations included in the project:
     </tr>
   </table>
 </div>
+
 
 ---
 
