@@ -1,5 +1,5 @@
 # Finance Dashboard - Power BI
-![Finance Dashboard](screenshots/FinalProject.png)
+![Finance Dashboard](screenshots/bg1.png)
 
 ## Overview
 The **Finance Dashboard** is a comprehensive visualization project built using Power BI. It showcases income, savings, expenses, and targets, providing actionable insights through interactive charts and dynamic measures.
@@ -51,13 +51,6 @@ The **Finance Dashboard** is a comprehensive visualization project built using P
 
 ---
 
-## Test the Dashboard
-You can interact with the dashboard directly below:
-
-<iframe title="finance_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGMyYjI2NzEtNjhmMi00NjNkLWJiM2YtOGRkYTU3MTg2NjkyIiwidCI6IjFjOTU3MTRkLTczMWEtNDVmZS04YjY2LWMwNTI2MmY4OGZjZSJ9" frameborder="0" allowFullScreen="true"></iframe>
-
----
-
 ## Project Details
 
 ### Data Source
@@ -84,12 +77,14 @@ For a detailed walkthrough of the project setup, refer to [`Steps.md`](Steps/Ste
 ## Visualizations
 Here are two additional mini visualizations included in the project:
 
-<table>
-  <tr>
-    <td><img src="screenshots/mini1.png" alt="Donut Chart 1" width="300"></td>
-    <td><img src="screenshots/mini2.png" alt="Donut Chart 2" width="300"></td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="screenshots/mini1.png" alt="Donut Chart 1" width="300"></td>
+      <td><img src="screenshots/mini2.png" alt="Donut Chart 2" width="300"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -100,3 +95,9 @@ Here are two additional mini visualizations included in the project:
 - [Kaggle](https://www.kaggle.com/xdweeb)  
 
 ---
+
+## Thanks for Watching  
+If you enjoyed this project, consider giving it a ⭐ to show your support!  
+
+Got ideas or want to collaborate on a similar project? Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/xdweb/) or [GitHub](https://github.com/xDweeb). Let's build something amazing together!
+
