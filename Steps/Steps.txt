@@ -189,7 +189,43 @@ Ex_vs_sav = DIVIDE({Savingd],[expneses]
 adding background
 and set size of component
 
-next ster set up second page of date
+now set up expenses second âge so when we go with mouse in expenses graph will show automaticly Area chart
+so first adding a page "T1" => copy past expenses card from page 1 => change graph card to area chart 
+=> add date to expenses area chart => off all title of chart => chnage size of graphe and backgroun to 250x450px
+=>click on chart => format page => Page information => set Allow use as tooltips : on
+=> go back to page 1 click to donut chart of expenses and go to Format visual => Tooltops => set Type : Report page => set page : T1
+costum : crate a background in figma (250x450px) H x W
+add it in page T1 => change color or area chart line => Visual => Lines => Color => White
+Duplicate page => rename to T2 => go back to page 1 => click on saving donut chart => General => Tooltips => Page : T2
 
+adding slicer with month-yr 
+insert => buttons => chose "blank button"
+copy past to get 2
+go to text set it on and write "show" and for other "hide"
+go to View => click on bookmarks + selection 
+select hide buuton and slicer date and group them and in selection click hide and add a bookmarks 
+change name to Date_Hide
+
+click again to show the group
+and click on bookmarks and change name to show
+
+click on the group go to 
+button => action => type : bookmark : Date_Hide
+same for button show but in bookmark : Date_Show
+
+selection => select button"show" as hide => go bookmarks => set update to Date_Show
+selection => select Group"Hide" as hide => go bookmarks => set update to Date_Hide
+output when i click show will show date and when hide will hide
+
+move button in palce like the background and set color border : off
+
+do same steps to creat refresh button
+
+
+
+next ster set up second page of date (when click on icon of date)
+
+
+fin.
 
 
