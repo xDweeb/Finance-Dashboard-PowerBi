@@ -1,5 +1,5 @@
 # Finance Dashboard - Power BI
-![Finance Dashboard](screenshots/bg1.png)
+![Finance Dashboard](screenshots/Front.png)
 
 ## Overview
 The **Finance Dashboard** is a comprehensive visualization project built using Power BI. It showcases income, savings, expenses, and targets, providing actionable insights through interactive charts and dynamic measures.
