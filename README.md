@@ -1,5 +1,5 @@
 # Finance Dashboard - Power BI
-![Finance Dashboard](screenshots/Front.png)
+![Finance Dashboard](0x04%20Screenshots/Front.png)
 
 ## Overview
 The **Finance Dashboard** is a comprehensive visualization project built using Power BI. It showcases income, savings, expenses, and targets, providing actionable insights through interactive charts and dynamic measures.
@@ -16,22 +16,28 @@ The **Finance Dashboard** is a comprehensive visualization project built using P
 
 ## Repository Structure
 ```plaintext
-├── Data/
-│   └── financial_data.xlsx      # Data source for the dashboard
-├── pbix of project/
-│   └── finance_dashboard.pbix   # Power BI project file
-├── Resources/
-│   ├── Background.png           # Dashboard background
-│   ├── graph background G.png   # Chart backgrounds
-│   └── icons.svg                # Icon assets
-├── screenshots/
-│   ├── FinalProject.png         # Snapshot of the final dashboard
-│   ├── mini1.png                # Supporting visuals
-│   └── mini2.png                # Supporting visuals
-├── Steps/
-│   ├── Steps.md                 # Step-by-step project documentation
-│   └── Steps.txt                # Additional notes
-└── README.md                    # Project overview (this file)
+├── 0x01 Data/
+│   └── financial_data.xlsx         # Data source for the dashboard
+├── 0x02 pbix of project/
+│   └── finance_dashboard.pbix      # Power BI project file
+├── 0x03 Resources/
+│   ├── Background.png              # Dashboard background
+│   ├── graph background G.png      # Chart background
+│   ├── graph background.png        # Additional chart background
+│   └── icons.svg                   # Icon assets
+├── 0x04 Screenshots/
+│   ├── bg1.png                     # Supporting visual background
+│   ├── FinalProject.png            # Snapshot of the final dashboard
+│   ├── FinalProjectV1.png          # Early version of the dashboard
+│   ├── FinalProjectV3.png          # Updated version of the dashboard
+│   ├── mini1.png                   # Supporting visuals
+│   ├── mini2.png                   # Supporting visuals
+│   └── TT.png                      # Tooltip visual
+├── 0x05 Steps/
+│   ├── Steps.md                    # Step-by-step project documentation
+│   └── Steps.txt                   # Additional notes
+└── README.md                       # Project overview (this file)
+
 ```
 
 ---
@@ -70,7 +76,7 @@ The **Finance Dashboard** is a comprehensive visualization project built using P
 - Savings Percentage
 - Dynamic Line Chart Selection
 
-For a detailed walkthrough of the project setup, refer to [`Steps.md`](Steps/Steps.md).
+For a detailed walkthrough of the project setup, refer to [`Steps.md`](0x05%20Steps/Steps.md).
 
 ---
 
@@ -80,8 +86,8 @@ Here are two additional mini visualizations included in the project:
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/mini1.png" alt="Donut Chart 1" width="300"></td>
-      <td><img src="screenshots/mini2.png" alt="Donut Chart 2" width="300"></td>
+      <td><img src="0x04%20Screenshots/mini1.png" alt="Donut Chart 1" width="300"></td>
+      <td><img src="0x04%20Screenshots/mini2.png" alt="Donut Chart 2" width="300"></td>
     </tr>
   </table>
 </div>
