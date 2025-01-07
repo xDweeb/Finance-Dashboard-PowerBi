@@ -37,7 +37,6 @@ The **Finance Dashboard** is a comprehensive visualization project built using P
 │   ├── Steps.md                    # Step-by-step project documentation
 │   └── Steps.txt                   # Additional notes
 └── README.md                       # Project overview (this file)
-
 ```
 
 ---
@@ -80,6 +79,13 @@ For a detailed walkthrough of the project setup, refer to [`Steps.md`](0x05%20St
 
 ---
 
+## Figma Design
+To complement the dashboard design, I utilized my graphic design skills to create custom backgrounds and visual elements in **Figma**. These designs enhance the overall user experience by providing a polished and professional look.
+
+You can view the Figma file here: [**Figma Design - Finance Dashboard**](https://www.figma.com/design/sqMx8RcC2a3Ks2J9nHuxEr/Finance-Dashboard-PowerBi?node-id=0-1&t=4wWlASiQ2BZ5Qn0W-1)
+
+---
+
 ## Visualizations
 Here are two additional mini visualizations included in the project:
 
@@ -91,7 +97,6 @@ Here are two additional mini visualizations included in the project:
     </tr>
   </table>
 </div>
-
 
 ---
 
@@ -107,4 +112,3 @@ Here are two additional mini visualizations included in the project:
 If you enjoyed this project, consider giving it a ⭐ to show your support!  
 
 Got ideas or want to collaborate on a similar project? Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/xdweb/) or [GitHub](https://github.com/xDweeb). Let's build something amazing together!
-
